@@ -1,4 +1,4 @@
-package com.hendrione-moka;
+package com.hendrionemoka;
 
 import static org.junit.Assert.assertTrue;
 

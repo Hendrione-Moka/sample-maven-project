@@ -1,4 +1,4 @@
-package com.hendrione-moka;
+package com.hendrionemoka;
 
 /**
  * Hello world!
